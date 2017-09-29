@@ -1,6 +1,7 @@
 package com.blogger.aiweiergou.immutableobject;
 
 /**
+ * 不可变对象模式
  * Created by sunyinjie on 2017/9/23.
  */
 public class OMCAgent extends Thread {
