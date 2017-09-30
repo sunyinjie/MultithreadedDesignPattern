@@ -1,5 +1,7 @@
 package com.blogger.aiweiergou.promise;
 
+import com.blogger.aiweiergou.common.enums.FTP;
+
 import java.io.*;
 import java.util.HashMap;
 import java.util.Map;
