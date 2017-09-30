@@ -4,6 +4,7 @@ package com.blogger.aiweiergou.twophasetermination;
 import com.blogger.aiweiergou.common.enums.AlarmType;
 
 /**
+ * 两阶段终止模式
  * Created by sunyinjie on 2017/9/29.
  */
 public class Test {
